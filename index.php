@@ -10,7 +10,7 @@
       <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
       <!--Informa ao navegador para usar palavras especiais-->
       <meta charset="UTF-8"/>
-      <title>Home - Raimundo Nonato</title>
+      <title>Home - Pizzaria</title>
     </head>
 
     <body>
